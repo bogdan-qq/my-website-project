@@ -21,8 +21,13 @@
 - GitHub — это платформа для хранения кода и файлов проекта.
 
 Главные скриншоты сайта:
+Главная страница
 <img width="1920" height="1080" alt="Главная страница" src="https://github.com/user-attachments/assets/e339920a-1ff4-4144-a9ac-443abd8879b2" />
+Страницы в админке
 <img width="1920" height="1080" alt="Страницы в админке" src="https://github.com/user-attachments/assets/a709df35-04d4-482a-9956-329ea4e14a72" />
+Запись с работающей формой
 <img width="1920" height="1080" alt="Форма" src="https://github.com/user-attachments/assets/b71033ab-9007-4d22-b5b2-99fcf2c5b667" />
+Записи в админке
 <img width="1920" height="1080" alt="Записи в админке" src="https://github.com/user-attachments/assets/b1b28ab1-30e0-4cc6-a86f-40f00bc0b908" />
+Записи на сайте
 <img width="1920" height="1080" alt="Записи на сайте" src="https://github.com/user-attachments/assets/35dbcc2c-5b3a-47c6-ad04-a11f7dd42290" />
